@@ -1,0 +1,11 @@
+{
+  "name": "amy-mods",
+  "owner": { "name": "Amy Huang" },
+  "plugins": [
+    {
+      "name": "tw-ticker",
+      "source": "./plugins/tw-ticker",
+      "description": "Claude 工作時顯示台股跑馬燈與 PTT 盤中閒聊彈幕"
+    }
+  ]
+}
